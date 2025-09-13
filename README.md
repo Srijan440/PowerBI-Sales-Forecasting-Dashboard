@@ -21,7 +21,7 @@ This Power BI project analyzes supermarket sales data, creates an **interactive 
 - Time Series Analysis
 
 ## 📹 Project Walkthrough
-Video walkthrough attached to my [LinkedIn post](your LinkedIn profile link).
+Video walkthrough attached to my [LinkedIn post] : https://www.linkedin.com/feed/update/urn:li:activity:7372476282305011712/
 
 ## 📂 Repository Contents
 - `Dashboard.pbix` – Power BI file of the dashboard.
